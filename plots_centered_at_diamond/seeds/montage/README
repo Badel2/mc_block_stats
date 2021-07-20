@@ -1,3 +1,3 @@
 # Use this command to generate montage image
-montage ../*/ores/diamond*.png -geometry +2+2 -tile 7x6 montage_diamonds.png
+./create_montages.sh
 
